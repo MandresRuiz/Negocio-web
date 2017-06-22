@@ -14,11 +14,7 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-<<<<<<< HEAD
- 
-=======
 
->>>>>>> fc8ea003260bed263d8d8992baaa0850f8d63e09
 
 /**
  *
