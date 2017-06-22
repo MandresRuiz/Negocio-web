@@ -10,11 +10,12 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Tabla Clientes</title>
     </head>
     <body>
+        <h1>Clientes</h1>
         <form action="ClienteServlet" method="post">
-            <table border="1">
+            <table>
                 <thead>
                     <tr>
                         <th>Nombre</th>
